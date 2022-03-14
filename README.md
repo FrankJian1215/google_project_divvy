@@ -4,4 +4,10 @@ This is a project coming from google data analytics certificate course in course
 ## HOW
 I use the structure of google called 6 phase of data analysis
 - ASK
-- 
+- PREPARE
+- PROCESS
+- ANALYZE
+- SHARE
+- ACT
+
+
